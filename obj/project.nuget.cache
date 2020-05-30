@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFxGsxv16HDd8te5/UpHiWSHXZ5TUCL3pGbeA8f63HrwuHoVTzxU50IQhqA38gXlKpESGwNQAMJXQGyw9vvtmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nanip\\source\\repos\\ewarcgis_new\\ewarcgis_new.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nanip\\.nuget\\packages\\esri.arcgisruntime.wpf\\100.7.0\\esri.arcgisruntime.wpf.100.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
